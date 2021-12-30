@@ -4,7 +4,8 @@
 	"description": "ESLint Configuration for my Projects",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"release": "npx release-it"
 	},
 	"repository": {
 		"type": "git",
@@ -24,5 +25,8 @@
 	"peerDependencies": {
 		"eslint": ">= 3",
 		"eslint-plugin-security": "^1.4.0"
+	},
+	"devDependencies": {
+		"release-it": "^14.11.8"
 	}
 }
