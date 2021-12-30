@@ -1,0 +1,28 @@
+{
+	"name": "@j-ulrich/eslint-config",
+	"version": "1.0.0",
+	"description": "ESLint Configuration for my Projects",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/j-ulrich/eslint-config.git"
+	},
+	"keywords": [
+		"eslint",
+		"config",
+		"eslintconfig"
+	],
+	"author": "Jochen Ulrich <jochenulrich@t-online.de>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/j-ulrich/eslint-config/issues"
+	},
+	"homepage": "https://github.com/j-ulrich/eslint-config#readme",
+	"peerDependencies": {
+		"eslint": ">= 3",
+		"eslint-plugin-security": "^1.4.0"
+	}
+}
