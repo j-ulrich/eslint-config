@@ -31,5 +31,8 @@
 	},
 	"devDependencies": {
 		"release-it": "^14.11.8"
+	},
+	"dependencies": {
+		"strip-json-comments": "^3.1.0"
 	}
 }
