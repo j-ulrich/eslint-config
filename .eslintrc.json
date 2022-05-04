@@ -24,7 +24,7 @@
 		"eqeqeq": "error",
 		"complexity": [
 			"warn",
-			8
+			20
 		],
 		"consistent-return": "error",
 		"no-array-constructor": "error",
